@@ -1,0 +1,9 @@
+{
+  "db": {
+    "database": "dids",
+    "password": "",
+    "requestTimeout": 60000,
+    "server": "mongodb://localhost/",
+    "user": ""
+  }
+}
